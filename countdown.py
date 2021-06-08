@@ -19,6 +19,7 @@ SPACE COMLEXITY
  since we have only one variable n that is an int the program
  runs in constant time O(1)
  The variable is initialised once 
+ the memory allocation is constant depending on the input 
 
 
 """
