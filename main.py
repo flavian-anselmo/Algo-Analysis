@@ -16,7 +16,9 @@ the constant time is canceled
 the time complexity is IN QUADRATIC TIME O(n^2)
 
 SPACE COMLEXITY
- 
+ since we have only one variable n that is an int the program
+ runs in constant time O(1)
+ The variable is initialised once 
 
 
 """
